@@ -1,0 +1,15 @@
+{
+  "author": "aliozkanozdurmus",
+  "createdAt": "2023-12-19",
+  "homepage": "https://invenire.tr",
+  "identifier": "moonlit-mind-map",
+  "manifest": "https://mindmap.flowai.one/manifest.json",
+  "meta": {
+    "avatar": "🧠",
+    "tags": ["mindmap"],
+    "title": "Mindmap",
+    "description": "A mindmap generation assistant",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
